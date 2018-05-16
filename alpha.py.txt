@@ -2,8 +2,8 @@ s=str(raw_input())
 
 if(s>'a'and s<'z')or(s>'A' and s<'z'):
    
- print("alphabet")
+ print("Yes")
 
 else:
      
-   print("not an alphabet")
+   print("No")
