@@ -1,8 +1,8 @@
-l=int(input())
+n=int(input())
 
-u=int(input())
+m=int(input())
 
-for i in range(l+1,u):
+for i in range(n+1,m):
  
    if(i%2==0):
    
