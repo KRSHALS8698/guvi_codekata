@@ -1,13 +1,13 @@
-n=int(input())
+a=int(input())
 
-if(n==0):
+if(a==0):
   
   print (1)
 
-elif(n<=20):
+elif(a<=20):
  
-  for i in range(1,n):
+  for i in range(1,a):
  
-   n=n*i
+   a=a*i
  
- print n
+  print a
