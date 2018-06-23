@@ -1,9 +1,9 @@
 n=input()
 
-if n in ("monday","tuesday","wednesday","thursday","friday"):
+if n in ("Monday","Tuesday","Wednesday","Thursday","Friday"):
   
   print("yes")
 
-elif n in("sunday","saturday"):
+elif n in("Sunday","Saturday"):
  
   print("no")
