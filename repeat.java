@@ -5,8 +5,8 @@ public class MyClass {
         int n,i;
         String a;
         Scanner sc=new Scanner(System.in);
+         a=sc.next();
         n=sc.nextInt();
-        a=sc.next();
         for(i=0;i<n;i++)
         {
             System.out.println(a);
