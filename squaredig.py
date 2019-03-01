@@ -4,4 +4,4 @@ while n>0:
     a=n % 10
     s=s+(a*a)
     n=n//10
-print s
+print (s);
