@@ -1,10 +1,6 @@
-x = list();
-number = int(input());
-k=int(input());
+a,b=input().split(" ")
+x = [int(i) for i in input().split()]
 s=0;
-for i in range(int(number)):
-    n = input()
-    x. append(int(n))
-for j in range(k):
-    s=s+x[j];
+for i in range(int(b)):
+    s=s+x[i];
 print(s);
